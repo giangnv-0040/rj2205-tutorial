@@ -21,3 +21,9 @@ Git tutorial
 
     vd: git clone git@github.com:giangnv-0040/rj2205-tutorial.git
     hoac: git clone https://github.com/giangnv-0040/rj2205-tutorial.git
+
+## 7. Day code len github
+    git status // kiem tra trang thai
+    git add . // thêm vao state
+    git commit -m "Create index.html file" // tao commit moi
+    git push origin main // day code len github
